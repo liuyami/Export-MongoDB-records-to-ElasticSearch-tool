@@ -1,1 +1,1 @@
-# elasticsearch-php
+# MongoDB records export to ElasticSearch tool
