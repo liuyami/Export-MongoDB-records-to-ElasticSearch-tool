@@ -1,1 +1,1 @@
-# MongoDB records export to ElasticSearch tool
+# Export MongoDB records to ElasticSearch tool
